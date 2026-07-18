@@ -30,7 +30,7 @@ Inside the app, the major tabs work together:
 
 Write scenes in a focused editor with a chapter-and-scene binder on the left and project metadata on the right.
 
-![Draft Tab](https://github.com/Firrle/extal/blob/main/docs/github/docs/github/draft-tab.png)
+![Draft Tab](docs/github/draft-tab.png)
 
 ### World
 
