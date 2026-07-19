@@ -65,6 +65,3 @@ Place markers, connect locations to topics and events, and use built-in measurem
 - The writing side and worldbuilding side live in the same app instead of being split across separate tools.
 - References are meant to stay navigable, not buried in loose notes.
 - The interface is designed for story continuity, not just text storage.
-- Server entry: `mcp/extal-mcp-server.js`
-- Setup guide: [readme files/LM_STUDIO_MCP_SETUP.md](readme%20files/LM_STUDIO_MCP_SETUP.md)
-
